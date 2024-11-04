@@ -26,7 +26,6 @@ I'm a passionate full-stack developer with a love for creating dynamic web appli
   <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
-
 - **Version Control**  
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
  
@@ -38,6 +37,7 @@ Feel free to reach out on
 I’d love to connect and collaborate!
 
 
+---
 ---
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
