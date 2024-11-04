@@ -33,7 +33,7 @@ I'm a passionate full-stack developer with a love for creating dynamic web appli
 
 ### 📫 Let's Connect!
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/anamika-b64323228/). I’d love to connect and collaborate!
+Feel free to reach out on [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/anamika-b64323228/). I’d love to connect and collaborate!
 
 ---
 
