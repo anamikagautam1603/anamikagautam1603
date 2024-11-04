@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Anamika </h1>
+<h1 align="center"> Hey there! 👋 I'm Anamika </h1>
 
 
 ### 🌟 About Me
@@ -18,22 +18,28 @@ I'm a passionate full-stack developer with a love for creating dynamic web appli
 - **Backend Development**  
   <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white" />
+<!--  <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white" /> -->
+<  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white" />
 
 - **Programming Languages**  
   <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
+  
 - **Version Control**  
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
- 
 
+
+ 
 ### 📫 Let's Connect!
 
 Feel free to reach out on
+
 ## [![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/anamika-b64323228/)
+
+
 I’d love to connect and collaborate!
+
 
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
