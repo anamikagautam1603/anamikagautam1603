@@ -19,7 +19,7 @@ I'm a passionate full-stack developer with a love for creating dynamic web appli
 - **Backend Development**  
   <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white" />
- # <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white" />
 
 - **Programming Languages**  
