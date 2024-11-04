@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white" />
   </p>
