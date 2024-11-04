@@ -36,6 +36,4 @@ Feel free to reach out on
 I’d love to connect and collaborate!
 
 
----
-
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
