@@ -1,6 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Anamika </h1>
 
----
 
 ### 🌟 About Me
 I'm a passionate full-stack developer with a love for creating dynamic web applications. I thrive on exploring new technologies and tackling complex challenges. My primary tech stack includes **HTML, CSS, JavaScript, Node.js, Express, React, MongoDB, Flutter**, and **MySQL**. When I'm not coding, you can find me reading tech blogs or contributing to open-source projects.
@@ -33,11 +32,10 @@ I'm a passionate full-stack developer with a love for creating dynamic web appli
 ### 📫 Let's Connect!
 
 Feel free to reach out on
-## [![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/anamika-b64323228/).
+## [![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/anamika-b64323228/)
 I’d love to connect and collaborate!
 
 
----
 ---
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
