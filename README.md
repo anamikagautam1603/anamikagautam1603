@@ -29,11 +29,14 @@ I'm a passionate full-stack developer with a love for creating dynamic web appli
 
 - **Version Control**  
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
-
+ 
 
 ### 📫 Let's Connect!
 
-Feel free to reach out on [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/anamika-b64323228/). I’d love to connect and collaborate!
+Feel free to reach out on
+## [![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/anamika-b64323228/).
+I’d love to connect and collaborate!
+
 
 ---
 
