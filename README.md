@@ -5,7 +5,6 @@
 ### 🌟 About Me
 I'm a passionate full-stack developer with a love for creating dynamic web applications. I thrive on exploring new technologies and tackling complex challenges. My primary tech stack includes **HTML, CSS, JavaScript, Node.js, Express, React, MongoDB, Flutter**, and **MySQL**. When I'm not coding, you can find me reading tech blogs or contributing to open-source projects.
 
----
 
 ### 💼 My Skills
 
@@ -31,7 +30,6 @@ I'm a passionate full-stack developer with a love for creating dynamic web appli
 - **Version Control**  
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
 
----
 
 ### 📫 Let's Connect!
 
