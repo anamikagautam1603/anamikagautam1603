@@ -11,7 +11,7 @@
 <div align="Left">
   <h3>Frontend Development</h3>
   <p>
-    <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=html&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white" />
